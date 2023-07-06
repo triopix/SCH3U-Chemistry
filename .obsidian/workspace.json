@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d232f97179a3c5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f23cb7b69cb93d",
+        "type": "tabs",
+        "dimension": 43.19775596072931,
+        "children": [
+          {
+            "id": "acfac8837f749bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Notes - Xenon-133.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0822dc63eeba8119",
+        "type": "tabs",
+        "dimension": 56.80224403927069,
+        "children": [
+          {
+            "id": "46e9feac8e049025",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf"
+              }
+            }
+          },
+          {
+            "id": "cf7f33c98a99821a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf"
+              }
+            }
+          },
+          {
+            "id": "eb7e1b145273dca4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76ac1398d44548ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f9413fadf39903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320f004a101dc7a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6efefa4246cf218b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "076fb23f7f79789f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "c9df5aafc244a789",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c8ce8c08093a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f913316e96a9e0eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research Notes - Xenon-133.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d7d562e38d21322",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research Notes - Xenon-133.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8367ffbd0a55edfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d143b76bf68f1d86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research Notes - Xenon-133.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "320f004a101dc7a1",
+  "lastOpenFiles": [
+    "Resources/11u Chemistry Textbook.pdf",
+    "Research Notes - Xenon-133.md",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf",
+    "GRADE-11/NOTES/Gr-11-Chem-Learning-Goals.md",
+    "Resources/IMPT LINKS.md",
+    "REVIEW-Grade-10/G10-Chem-1.md",
+    "REVIEW-Grade-10/G10-Chem-2.md",
+    "REVIEW-Grade-10/G10-Chem-3.md",
+    "REVIEW-Grade-10/G10-Chem-4.md",
+    "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
+    "Resources/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
+    "Resources/Drawing 2023-07-06 17.21.26.excalidraw.dark.png.crdownload",
+    "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.light.png",
+    "Excalidraw",
+    "GRADE-11/UNIT 1/DRAWING",
+    "Resources/0.1-Data tables.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res",
+    "Resources/Unconfirmed 876221.crdownload",
+    "Resources/3.0-Assignment- Isotopes - Copy.docx",
+    "Resources/Pasted image 20230704115645.png",
+    "Pasted image 20230704115645.png",
+    "2023-07-04.md"
+  ]
+}
