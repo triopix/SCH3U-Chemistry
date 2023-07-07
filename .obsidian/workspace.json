@@ -6,7 +6,7 @@
       {
         "id": "03f23cb7b69cb93d",
         "type": "tabs",
-        "dimension": 43.19775596072931,
+        "dimension": 52.945301542777,
         "children": [
           {
             "id": "acfac8837f749bbc",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Notes - Xenon-133.md",
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "0822dc63eeba8119",
         "type": "tabs",
-        "dimension": 56.80224403927069,
+        "dimension": 47.054698457223,
         "children": [
           {
             "id": "46e9feac8e049025",
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "c9df5aafc244a789",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Notes - Xenon-133.md",
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Notes - Xenon-133.md",
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Notes - Xenon-133.md"
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md"
               }
             }
           }
@@ -186,13 +186,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320f004a101dc7a1",
+  "active": "acfac8837f749bbc",
   "lastOpenFiles": [
-    "Resources/11u Chemistry Textbook.pdf",
-    "Research Notes - Xenon-133.md",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf",
     "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
+    "Pasted image 20230706220217.png",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Works-Cited-APA-Format.md",
+    "Resources/11u Chemistry Textbook.pdf",
     "GRADE-11/NOTES/Gr-11-Chem-Learning-Goals.md",
     "Resources/IMPT LINKS.md",
     "REVIEW-Grade-10/G10-Chem-1.md",
@@ -209,7 +211,6 @@
     "Resources/0.1-Data tables.pdf",
     "GRADE-11/UNIT 1/ASSIGNMENT/res",
     "Resources/Unconfirmed 876221.crdownload",
-    "Resources/3.0-Assignment- Isotopes - Copy.docx",
     "Resources/Pasted image 20230704115645.png",
     "Pasted image 20230704115645.png",
     "2023-07-04.md"
