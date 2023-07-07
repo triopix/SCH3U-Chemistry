@@ -6,44 +6,14 @@
       {
         "id": "03f23cb7b69cb93d",
         "type": "tabs",
-        "dimension": 52.945301542777,
         "children": [
           {
             "id": "acfac8837f749bbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0822dc63eeba8119",
-        "type": "tabs",
-        "dimension": 47.054698457223,
-        "children": [
-          {
-            "id": "46e9feac8e049025",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf"
-              }
-            }
-          },
-          {
-            "id": "cf7f33c98a99821a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf"
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf"
               }
             }
           }
@@ -97,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "c9df5aafc244a789",
@@ -114,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md"
+                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf"
               }
             }
           }
@@ -178,20 +147,26 @@
   },
   "active": "acfac8837f749bbc",
   "lastOpenFiles": [
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
+    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Research Notes - Xenon-133.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/References.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT",
+    "GRADE-11/UNIT 1/ASSIGNMENT/References.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Xenon-133.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Works-Cited-APA-Format.md",
+    "GRADE-11/NOTES/Gr-11-Chem-Learning-Goals.md",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf",
+    "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf",
+    "Pasted image 20230706220217.png",
     "Pasted image 20230707111953.png",
     "Pasted image 20230707111717.png",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
     "Pasted image 20230707103438.png",
     "Pasted image 20230707103349.png",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf",
     "Pasted image 20230707100425.png",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf",
     "Pasted image 20230707081017.png",
-    "Pasted image 20230706220217.png",
-    "GRADE-11/UNIT 1/ASSIGNMENT/Works-Cited-APA-Format.md",
     "Resources/11u Chemistry Textbook.pdf",
-    "GRADE-11/NOTES/Gr-11-Chem-Learning-Goals.md",
     "Resources/IMPT LINKS.md",
     "REVIEW-Grade-10/G10-Chem-1.md",
     "REVIEW-Grade-10/G10-Chem-2.md",
@@ -199,15 +174,8 @@
     "REVIEW-Grade-10/G10-Chem-4.md",
     "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
     "Resources/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
-    "Resources/Drawing 2023-07-06 17.21.26.excalidraw.dark.png.crdownload",
     "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.md",
     "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.light.png",
-    "Excalidraw",
-    "GRADE-11/UNIT 1/DRAWING",
-    "Resources/0.1-Data tables.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res",
-    "Resources/Unconfirmed 876221.crdownload",
-    "Resources/Pasted image 20230704115645.png",
     "2023-07-04.md"
   ]
 }
