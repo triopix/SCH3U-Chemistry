@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "03f23cb7b69cb93d",
+        "id": "8d3aa241ff93a42f",
         "type": "tabs",
         "children": [
           {
-            "id": "acfac8837f749bbc",
+            "id": "2b3d15855421693a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md"
+              }
+            }
+          },
+          {
+            "id": "b48ce14c09a3bf19",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf"
+                "file": "Resources/Periodic-Table-2023.pdf"
               }
             }
           }
@@ -67,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "c9df5aafc244a789",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf",
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf",
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf"
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md"
               }
             }
           }
@@ -145,37 +156,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acfac8837f749bbc",
+  "active": "2b3d15855421693a",
   "lastOpenFiles": [
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/Unit 1 -Application assignment - Isotopes & Radioisotopes - SCH3U4-B-Chemistry-Narang, A - Peel DSB.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. Isotopes.Radioactivity.Half-life.mp4",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md",
+    "Resources/Periodic-Table-2023.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. Isotope Practice.2.doc.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/L3. Intro to Isotopes and radioisotopes.mp4",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/L4. Isotope Calculations and Mass Spectrmeter.mp4",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.light.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Drawing 2023-07-09 23.21.07.excalidraw.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.light.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.md",
+    "GRADE-11/Gr-11-Chem-Learning-Goals.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Pasted Image 20230709201645_209.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. Isotope Practice.1.docx.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. MORE Isotope Calculations.docx.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Pasted Image 20230709201803_255.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. MORE Isotope Calculations.SOLN.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Unconfirmed 619483.crdownload",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Unconfirmed 451440.crdownload",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.md",
+    "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/Drawing 2023-07-06 17.21.26.excalidraw.md",
+    "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
+    "Excalidraw/Drawing 2023-07-09 20.08.31.excalidraw.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/ATOMICno.-mass-isotopes.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/Instruction.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3.HW1-SHEET.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/Drawing 2023-07-09 14.20.27.excalidraw.md",
+    "GRADE-11/UNIT 1/U1 - (Radio)Isotopes-Decay/Drawing 2023-07-09 13.26.24.excalidraw.md",
     "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
-    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Research Notes - Xenon-133.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Xenon-133.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/References.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT",
-    "GRADE-11/UNIT 1/ASSIGNMENT/References.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/Xenon-133.pdf",
     "GRADE-11/UNIT 1/ASSIGNMENT/Works-Cited-APA-Format.md",
-    "GRADE-11/NOTES/Gr-11-Chem-Learning-Goals.md",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/_3.1-Citations for Science.docx.pdf",
-    "GRADE-11/UNIT 1/ASSIGNMENT/res/3.0-Assignment- Isotopes - Copy.pdf",
-    "Pasted image 20230706220217.png",
-    "Pasted image 20230707111953.png",
-    "Pasted image 20230707111717.png",
-    "Pasted image 20230707103438.png",
-    "Pasted image 20230707103349.png",
-    "Pasted image 20230707100425.png",
-    "Pasted image 20230707081017.png",
-    "Resources/11u Chemistry Textbook.pdf",
     "Resources/IMPT LINKS.md",
     "REVIEW-Grade-10/G10-Chem-1.md",
     "REVIEW-Grade-10/G10-Chem-2.md",
     "REVIEW-Grade-10/G10-Chem-3.md",
     "REVIEW-Grade-10/G10-Chem-4.md",
-    "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
-    "Resources/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
-    "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-06 17.21.26.excalidraw.light.png",
     "2023-07-04.md"
   ]
 }
