@@ -8,7 +8,7 @@
 ___
 
 >[!NOTE] 
->###### Chosen Isotope: Xenon-133 (Medical Purposes)
+>##### Chosen Isotope: Xenon-133 (Medical Purposes)
 
 > [!IMPORTANT]
 > ##### Criterion:

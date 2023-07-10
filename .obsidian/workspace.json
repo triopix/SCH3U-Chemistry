@@ -4,30 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8d3aa241ff93a42f",
+        "id": "7bbedd5cfe532746",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3d15855421693a",
+            "id": "2bf2f7c329403783",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md"
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Instruction.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "b48ce14c09a3bf19",
+            "id": "7ce1a18f4e8b19a0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Resources/Periodic-Table-2023.pdf"
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.md"
+              }
+            }
+          },
+          {
+            "id": "77b4fbf1feabb236",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "c9df5aafc244a789",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md",
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md",
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md"
+                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png"
               }
             }
           }
@@ -156,41 +168,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320f004a101dc7a1",
+  "active": "77b4fbf1feabb236",
   "lastOpenFiles": [
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. Isotopes.Radioactivity.Half-life.mp4",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.light.png",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
+    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Research Notes - Xenon-133.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/Instruction.md",
     "Resources/Periodic-Table-2023.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. Isotope Practice.2.doc.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/L3. Intro to Isotopes and radioisotopes.mp4",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/L4. Isotope Calculations and Mass Spectrmeter.mp4",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.md",
+    "Pasted Image 20230710071453_111.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Instruction.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/L9. Periodic Table Trends Practice.1.SOLNs.docx.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Unconfirmed 173302.crdownload",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/L9. Periodic Table Trends Practice.1.docx.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Unconfirmed 723865.crdownload",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/L8 - Periodic Table Trends.Radius.IE.ppt.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Unconfirmed 817499.crdownload",
+    "GRADE-11/Gr-11-Chem-Learning-Goals.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/L5. Isotopes.Radioactivity.Half-life.ppt.pdf",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8",
+    "Untitled.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-2.md",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/MORE-ISOTOPE.dark.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-1.md",
+    "Pasted Image 20230710063337_390.png",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.dark.png",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.light.png",
+    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-2.light.png",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Drawing 2023-07-09 23.21.07.excalidraw.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.light.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.md",
-    "GRADE-11/Gr-11-Chem-Learning-Goals.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Pasted Image 20230709201645_209.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. Isotope Practice.1.docx.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. MORE Isotope Calculations.docx.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Pasted Image 20230709201803_255.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/L5. MORE Isotope Calculations.SOLN.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Unconfirmed 619483.crdownload",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Unconfirmed 451440.crdownload",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.dark.png",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.md",
     "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/Drawing 2023-07-06 17.21.26.excalidraw.md",
-    "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/Drawing 2023-07-06 17.21.26.excalidraw.dark.png",
     "Excalidraw/Drawing 2023-07-09 20.08.31.excalidraw.md",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/ATOMICno.-mass-isotopes.md",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/Instruction.md",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3.HW1-SHEET.md",
     "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/Drawing 2023-07-09 14.20.27.excalidraw.md",
     "GRADE-11/UNIT 1/U1 - (Radio)Isotopes-Decay/Drawing 2023-07-09 13.26.24.excalidraw.md",
-    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
     "GRADE-11/UNIT 1/ASSIGNMENT/Works-Cited-APA-Format.md",
     "Resources/IMPT LINKS.md",
     "REVIEW-Grade-10/G10-Chem-1.md",
