@@ -4,38 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "7bbedd5cfe532746",
+        "id": "c3d78e81e70db760",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf2f7c329403783",
+            "id": "f478dbdebf70b2e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Instruction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7ce1a18f4e8b19a0",
+            "id": "7ee2bda505f60496",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.md"
+                "file": "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PeriodicTable-Trends.md"
               }
             }
           },
           {
-            "id": "77b4fbf1feabb236",
+            "id": "41b31a541663dbda",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png"
+                "file": "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.1.docx.pdf"
               }
             }
           }
@@ -90,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 449.5110321044922
   },
   "right": {
     "id": "c9df5aafc244a789",
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
+                "file": "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.1.docx.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
+                "file": "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.1.docx.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png"
+                "file": "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.1.docx.pdf"
               }
             }
           }
@@ -168,51 +164,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77b4fbf1feabb236",
+  "active": "41b31a541663dbda",
   "lastOpenFiles": [
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.light.png",
-    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
-    "GRADE-11/UNIT 1/ASSIGNMENT/TO_SUBMIT/Research Notes - Xenon-133.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/Instruction.md",
-    "Resources/Periodic-Table-2023.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.md",
-    "Pasted Image 20230710071453_111.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Periodic Trends.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Instruction.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/L9. Periodic Table Trends Practice.1.SOLNs.docx.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Unconfirmed 173302.crdownload",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/L9. Periodic Table Trends Practice.1.docx.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Unconfirmed 723865.crdownload",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/L8 - Periodic Table Trends.Radius.IE.ppt.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8/Unconfirmed 817499.crdownload",
-    "GRADE-11/Gr-11-Chem-Learning-Goals.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/L5. Isotopes.Radioactivity.Half-life.ppt.pdf",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L8",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/L8 - Periodic Table Trends.Radius.IE.ppt.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/Unconfirmed 915269.crdownload",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.1.SOLNs.docx.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.2.doc.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.2.SOLNs.doc.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Trends in the Periodic Table Summary.complete.docx.pdf",
+    "impt-res/Periodic-Table-2023.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/Trend-Electronegativity-Electron Affinity.md",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PeriodicTable-Trends.md",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/Unconfirmed 120970.crdownload",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/Unconfirmed 987730.crdownload",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/Unconfirmed 692506.crdownload",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PDF/L9. Periodic Table Trends Practice.1.docx.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/L9-PRACTICE.md",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/L9-PRACTICE.png",
+    "imgs/Pasted Image 20230710214019_250.png",
+    "imgs/Pasted Image 20230710214238_342.png",
+    "Pasted Image 20230711113151_592.png",
+    "GRADE-11/UNIT 1/learning-goals.md",
     "Untitled.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-2.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/MORE-ISOTOPE.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-1.md",
-    "Pasted Image 20230710063337_390.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-2.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/PRACTICE-1.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-2.light.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L5/Drawing 2023-07-09 23.21.07.excalidraw.dark.png",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.md",
-    "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/Drawing 2023-07-06 17.21.26.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-09 20.08.31.excalidraw.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/ATOMICno.-mass-isotopes.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/L3.HW1-SHEET.md",
-    "GRADE-11/UNIT 1/NOTES/U1 - (Radio)Isotopes-Decay/Drawing 2023-07-09 14.20.27.excalidraw.md",
-    "GRADE-11/UNIT 1/U1 - (Radio)Isotopes-Decay/Drawing 2023-07-09 13.26.24.excalidraw.md",
-    "GRADE-11/UNIT 1/ASSIGNMENT/Works-Cited-APA-Format.md",
-    "Resources/IMPT LINKS.md",
-    "REVIEW-Grade-10/G10-Chem-1.md",
-    "REVIEW-Grade-10/G10-Chem-2.md",
-    "REVIEW-Grade-10/G10-Chem-3.md",
-    "REVIEW-Grade-10/G10-Chem-4.md",
-    "2023-07-04.md"
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8/Untitled.md",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8/PeriodicTable-Trends.light.png",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8/PeriodicTable-Trends.dark.png",
+    "imgs/Pasted Image 20230710213947_209.png",
+    "imgs/Pasted Image 20230710213713_163.png",
+    "imgs/Pasted Image 20230710213441_716.png",
+    "imgs/Pasted Image 20230710213426_695.png",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/INSTRUCTION.md",
+    "Periodic.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-2.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L5-L6L7skipped/PRACTICE-1.md",
+    "impt-res/IMPT LINKS.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L3/Instruction.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L3/ATOMICno.-mass-isotopes.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L8/Instruction.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L8/Periodic Trends.md",
+    "GRADE-11/UNIT 1/ASSIGNMENT/Research Notes - Xenon-133.md",
+    "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/BONDING-DRAWINGS.md",
+    "Excalidraw/Drawing 2023-07-09 20.08.31.excalidraw.md"
   ]
 }

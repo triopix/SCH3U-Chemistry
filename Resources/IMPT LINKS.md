@@ -1,2 +1,0 @@
-[Student Journal](https://docs.google.com/document/d/1SROaBUCmvseDFrtnkB1Ac7Mv-33Gid63VTw28xktFkQ/edit)
-[Course Govt. Curriculum](https://docs.google.com/document/d/1rt7J_7Qa7FzvIbck0VgNJSDyAtOWcwx1/edit)
