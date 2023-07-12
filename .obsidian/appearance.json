@@ -1,5 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#64583f",
   "theme": "obsidian",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "image-zoom"
+  ]
 }
