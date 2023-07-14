@@ -417,5 +417,5 @@
   "pdfGapSize": 20,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfImportScale": 0.8
+  "pdfImportScale": 1.5
 }
