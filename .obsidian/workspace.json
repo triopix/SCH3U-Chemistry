@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6945f89b727ee821",
+        "id": "b4ca3846d2b554ab",
         "type": "tabs",
         "children": [
           {
-            "id": "6d18cd4a408e7449",
+            "id": "024b21b10470f491",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6e86ff383b618301",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "impt-res/Periodic-Table-2023.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "impt-res/Periodic-Table-2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "impt-res/Periodic-Table-2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "impt-res/Periodic-Table-2023.pdf"
+              }
             }
           }
         ]
@@ -139,53 +154,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "320f004a101dc7a1",
+  "active": "6e86ff383b618301",
   "lastOpenFiles": [
-    "GRADE-11/UNIT 1/NOTES/1.3-DRAWING",
     "impt-res/Periodic-Table-2023.pdf",
-    "impt-res/mini_polyatomic_ions.pdf",
+    "GRADE-11/UNIT 3/3.1/NOTE-EMP.md",
+    "Pasted Image 20230717220232_223.png",
+    "Pasted Image 20230717213206_735.png",
+    "GRADE-11/UNIT 3/3.1/Molec-Prac-Hard.md",
+    "GRADE-11/UNIT 3/3.1/PDFS/7.0 Empirical and Molecular Formula.pptx.pdf",
+    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 913577.crdownload",
+    "GRADE-11/UNIT 3/3.1/Molec-Prac-Hard.png",
+    "GRADE-11/UNIT 3/3.1/EMP-MOLEC-FORMULAS.png",
+    "impt-res/IMPT LINKS.md",
+    "GRADE-11/UNIT 3/3.1/PDFS/TEST.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/TEST.png.crdownload",
+    "GRADE-11/UNIT 3/3.1/TEST.png",
+    "GRADE-11/UNIT 3/3.1/TEST.md",
+    "GRADE-11/UNIT 3/3.1/HOW TO.md",
+    "GRADE-11/UNIT 3/3.1/HOW TO.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/jjk.pdf",
+    "GRADE-11/UNIT 3/3.1/2MorePrac.md",
+    "GRADE-11/UNIT 3/3.1/2MorePrac.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/Text - Mole Calculations.pdf",
+    "GRADE-11/UNIT 3/3.1/PDFS/dfd.pdf",
+    "GRADE-11/UNIT 3/3.1/MoreMorePrac.md",
+    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 252075.crdownload",
+    "GRADE-11/UNIT 3/3.1/PDFS/openboard_ubuntu_22.04_1.6.4_amd64.deb",
+    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 619548.crdownload",
+    "GRADE-11/UNIT 3/3.1/MoleToGramToMole.md",
+    "GRADE-11/UNIT 3/3.1/MoreMorePrac.png",
+    "GRADE-11/UNIT 3/3.1/MoleToGramToMole.png",
+    "GRADE-11/UNIT 3/3.1/To Watch.md",
+    "GRADE-11/UNIT 3/3.2/Percentage-Composition.md",
+    "GRADE-11/UNIT 3/3.2/IDEA.md",
+    "GRADE-11/UNIT 3/Unit 3-Quantities In Chemical Reactions.md",
+    "GRADE-11/IONIC BOND-FIRST ASSIGNMENT/BONDING-DRAWINGS.md",
+    "GRADE-11/UNIT 1/NOTES/1.3-DRAWING/Drawing 2023-07-15 16.11.44.excalidraw.md",
     "GRADE-11/UNIT 2/2.3/Double-Disp-Work.md",
-    "impt-res/0.1-Data tables.pdf",
     "GRADE-11/UNIT 2/2.3/Single-Disp-Work.md",
-    "GRADE-11/UNIT 2/2.3/PDFS/9.1 DoubleDisplacementWorksheet.docx.pdf",
-    "GRADE-11/UNIT 2/2.3/PDFS/9.0 Synthesis_and_Decomposition_Reactions.docx.pdf",
-    "GRADE-11/UNIT 2/2.2/8.1-WORK.png",
     "GRADE-11/UNIT 2/2.2/8.1-WORK.md",
     "GRADE-11/UNIT 2/2.3/Synthesis-Decomp.md",
-    "GRADE-11/UNIT 2/2.3/Single-Disp-Work.png",
-    "GRADE-11/UNIT 2/2.3/Synthesis-Decomp.png",
-    "GRADE-11/UNIT 2/2.3/Double-Disp-Work.png",
-    "GRADE-11/UNIT 2/2.3/PDFS/9.1 SingleDisplacementWorksheet.pdf",
-    "GRADE-11/UNIT 2/2.3/PDFS/9.1-Single and Double Displacement.pptx.pdf",
     "GRADE-11/UNIT 2/2.3/Drawing 2023-07-14 10.18.19.excalidraw 1.md",
-    "impt-res/Unconfirmed 761963.crdownload",
-    "GRADE-11/UNIT 2/2.3/PDFS/Unconfirmed 256869.crdownload",
-    "GRADE-11/UNIT 2/2.3/PDFS/Unconfirmed 97409.crdownload",
     "GRADE-11/UNIT 2/Drawing 2023-07-13 22.09.45.excalidraw.md",
     "GRADE-11/UNIT 2/2.1/Rules for naming acids.md",
-    "GRADE-11/UNIT 2/2.1/Practice-Sheet-Two.png",
     "GRADE-11/UNIT 2/2.1/Practice-Sheet-Two.md",
-    "GRADE-11/UNIT 2/2.1/Practice-Sheet-One.png",
-    "GRADE-11/UNIT 2/2.1/HYDROXATES-WORK.png",
-    "GRADE-11/UNIT 2/2.1/Acids-Work.png",
     "GRADE-11/UNIT 2/2.1/Acids-Work.md",
     "GRADE-11/UNIT 2/2.1/Practice-Sheet-One.md",
-    "GRADE-11/UNIT 2/2.1/Untitled.md",
-    "GRADE-11/UNIT 2/2.1/HYDROXATES-WORK.md",
-    "GRADE-11/UNIT 2/2.1/4.0-WORK.md",
-    "GRADE-11/UNIT 2/2.1/4.0-WORK.png",
-    "GRADE-11/UNIT 2/2.1/4.1-WORK.png",
-    "GRADE-11/UNIT 2/2.1/4.2-WORK.md",
-    "GRADE-11/UNIT 2/2.1/Name-Acids.md",
-    "GRADE-11/UNIT 2/todo.md",
-    "GRADE-11/UNIT 2/2.1/4.1-WORK.md",
-    "GRADE-11/UNIT 2/2.1/Big Idea.md",
-    "GRADE-11/UNIT 2/Review/SIMPLE-BINARY-IONIC-naming.md",
-    "GRADE-11/UNIT 2/Learning Goals.md",
-    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PTrends2-Electronegativity-ElectronAffinity.md",
-    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/PTrends1-AtomicRadius-Ionization-Energy.md",
-    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/Trend-Electronegativity-Electron Affinity.md",
-    "GRADE-11/UNIT 1/NOTES/1.2 - Trends-Atomic Radius-Ionization Energy/L8-L9/L9-PRACTICE.md",
-    "GRADE-11/UNIT 1/learning-goals.md"
+    "GRADE-11/UNIT 2/2.1/Untitled.md"
   ]
 }
