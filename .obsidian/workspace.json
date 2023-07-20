@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ca3846d2b554ab",
+        "id": "242955c4f78604a8",
         "type": "tabs",
         "children": [
           {
-            "id": "024b21b10470f491",
+            "id": "2972358a6c60b5b7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "6e86ff383b618301",
+            "id": "03de732c91795b38",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "impt-res/Periodic-Table-2023.pdf"
+                "file": "GRADE-11/UNIT 3/3.1/MASS-MASS-CALC.md"
               }
             }
           }
@@ -71,6 +71,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "084cfed8afc8ff6f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "impt-res/Periodic-Table-2023.pdf"
+              }
+            }
           }
         ]
       }
@@ -92,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "impt-res/Periodic-Table-2023.pdf",
+                "file": "GRADE-11/UNIT 3/3.1/MASS-MASS-CALC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "impt-res/Periodic-Table-2023.pdf",
+                "file": "GRADE-11/UNIT 3/3.1/MASS-MASS-CALC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "impt-res/Periodic-Table-2023.pdf"
+                "file": "GRADE-11/UNIT 3/3.1/MASS-MASS-CALC.md"
               }
             }
           }
@@ -154,37 +164,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e86ff383b618301",
+  "active": "03de732c91795b38",
   "lastOpenFiles": [
-    "impt-res/Periodic-Table-2023.pdf",
+    "Pasted Image 20230719223040_288.png",
+    "Pasted Image 20230719221716_700.png",
+    "Pasted Image 20230719220452_681.png",
+    "Pasted Image 20230719220104_599.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/Worksheet #20c - Mass to Mass Stoichiometry.pdf",
+    "GRADE-11/UNIT 3/3.1/STOICH-QUESTIONS.md",
+    "GRADE-11/UNIT 3/3.1/MASS-MASS-CALC.md",
+    "GRADE-11/UNIT 3/3.1/STOICH-QUESTIONS.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/Worksheet #20a -Mole Ratios.pdf",
+    "GRADE-11/UNIT 3/3.1/Mole-Ratios.md",
+    "GRADE-11/UNIT 3/3.1/Mole-Ratios.png",
+    "GRADE-11/UNIT 3/3.1/MASS-MASS-CALC.png",
+    "Pasted Image 20230719215630_361.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/life.pdf",
+    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 297917.crdownload",
     "GRADE-11/UNIT 3/3.1/NOTE-EMP.md",
-    "Pasted Image 20230717220232_223.png",
-    "Pasted Image 20230717213206_735.png",
-    "GRADE-11/UNIT 3/3.1/Molec-Prac-Hard.md",
-    "GRADE-11/UNIT 3/3.1/PDFS/7.0 Empirical and Molecular Formula.pptx.pdf",
-    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 913577.crdownload",
-    "GRADE-11/UNIT 3/3.1/Molec-Prac-Hard.png",
-    "GRADE-11/UNIT 3/3.1/EMP-MOLEC-FORMULAS.png",
-    "impt-res/IMPT LINKS.md",
-    "GRADE-11/UNIT 3/3.1/PDFS/TEST.png",
-    "GRADE-11/UNIT 3/3.1/PDFS/TEST.png.crdownload",
-    "GRADE-11/UNIT 3/3.1/TEST.png",
-    "GRADE-11/UNIT 3/3.1/TEST.md",
-    "GRADE-11/UNIT 3/3.1/HOW TO.md",
-    "GRADE-11/UNIT 3/3.1/HOW TO.png",
-    "GRADE-11/UNIT 3/3.1/PDFS/jjk.pdf",
-    "GRADE-11/UNIT 3/3.1/2MorePrac.md",
-    "GRADE-11/UNIT 3/3.1/2MorePrac.png",
+    "Pasted Image 20230719195319_346.png",
+    "Pasted Image 20230719194754_775.png",
+    "Pasted Image 20230719194324_627.png",
+    "GRADE-11/UNIT 3/3.1/Untitled.canvas",
+    "GRADE-11/UNIT 3/3.1/PDFS/7 - Stoichiometry.ppt.pdf",
+    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 134160.crdownload",
     "GRADE-11/UNIT 3/3.1/PDFS/Text - Mole Calculations.pdf",
-    "GRADE-11/UNIT 3/3.1/PDFS/dfd.pdf",
-    "GRADE-11/UNIT 3/3.1/MoreMorePrac.md",
-    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 252075.crdownload",
-    "GRADE-11/UNIT 3/3.1/PDFS/openboard_ubuntu_22.04_1.6.4_amd64.deb",
-    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 619548.crdownload",
-    "GRADE-11/UNIT 3/3.1/MoleToGramToMole.md",
-    "GRADE-11/UNIT 3/3.1/MoreMorePrac.png",
-    "GRADE-11/UNIT 3/3.1/MoleToGramToMole.png",
+    "GRADE-11/UNIT 3/3.1/PDFS/Answers to Mole Drill Sheet.pdf",
+    "GRADE-11/UNIT 3/3.1/PDFS/Unconfirmed 144700.crdownload",
+    "impt-res/Periodic-Table-2023.pdf",
+    "GRADE-11/UNIT 3/3.1/Molec-Prac-Hard.md",
+    "GRADE-11/UNIT 3/3.1/Mole-Drill-Sheet.md",
+    "GRADE-11/UNIT 3/3.1/Untitled.md",
     "GRADE-11/UNIT 3/3.1/To Watch.md",
+    "GRADE-11/UNIT 3/3.1/HOW TO.md",
+    "GRADE-11/UNIT 3/3.1/2MorePrac.md",
+    "impt-res/IMPT LINKS.md",
+    "GRADE-11/UNIT 3/3.1/TEST.md",
+    "GRADE-11/UNIT 3/3.1/MoreMorePrac.md",
+    "GRADE-11/UNIT 3/3.1/MoleToGramToMole.md",
     "GRADE-11/UNIT 3/3.2/Percentage-Composition.md",
     "GRADE-11/UNIT 3/3.2/IDEA.md",
     "GRADE-11/UNIT 3/Unit 3-Quantities In Chemical Reactions.md",
@@ -195,11 +212,6 @@
     "GRADE-11/UNIT 2/2.2/8.1-WORK.md",
     "GRADE-11/UNIT 2/2.3/Synthesis-Decomp.md",
     "GRADE-11/UNIT 2/2.3/Drawing 2023-07-14 10.18.19.excalidraw 1.md",
-    "GRADE-11/UNIT 2/Drawing 2023-07-13 22.09.45.excalidraw.md",
-    "GRADE-11/UNIT 2/2.1/Rules for naming acids.md",
-    "GRADE-11/UNIT 2/2.1/Practice-Sheet-Two.md",
-    "GRADE-11/UNIT 2/2.1/Acids-Work.md",
-    "GRADE-11/UNIT 2/2.1/Practice-Sheet-One.md",
-    "GRADE-11/UNIT 2/2.1/Untitled.md"
+    "GRADE-11/UNIT 2/Drawing 2023-07-13 22.09.45.excalidraw.md"
   ]
 }
