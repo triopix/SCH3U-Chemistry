@@ -1,8 +1,8 @@
 {
-  "accentColor": "#64583f",
+  "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 15,
-  "cssTheme": "Minimal",
+  "cssTheme": "Kanagawa",
   "enabledCssSnippets": [
     "image-zoom"
   ]
