@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c93ebed973ef4aab",
+        "id": "8181f119dffe0cba",
         "type": "tabs",
         "children": [
           {
-            "id": "419b8dea90453e1a",
+            "id": "b60130a7dbe0b904",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "impt-res/0.1-Data tables.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,23 +153,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "419b8dea90453e1a",
+  "active": "320f004a101dc7a1",
   "lastOpenFiles": [
+    "imgs/Pasted Image 20230727115533_218.png",
+    "impt-res/0.1-Data tables.pdf",
     "GRADE-11/UNIT 3/NOTE-EMP.png",
     "GRADE-11/UNIT 3/NOTE-EMP.md",
-    "impt-res/0.1-Data tables.pdf",
     "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
     "EXAM/Question-2.png",
     "EXAM/Question-4.png",
     "GRADE-11/UNIT 1/Question-4.png",
     "EXAM/Question-4.md",
-    "Pasted Image 20230727130511_765.png",
-    "Pasted Image 20230727124856_334.png",
+    "imgs/Pasted Image 20230727130511_765.png",
+    "imgs/Pasted Image 20230727124856_334.png",
     "EXAM/Question-3.md",
     "EXAM/Question-3.png",
-    "Pasted Image 20230727123332_156.png",
+    "imgs/Pasted Image 20230727123332_156.png",
     "EXAM/Question-2.md",
-    "Pasted Image 20230727122916_655.png",
+    "imgs/Pasted Image 20230727122916_655.png",
     "EXAM/Question-1.md",
     "Untitled.md",
     "EXAM",
