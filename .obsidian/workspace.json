@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67f6385465430fe2",
+        "id": "c93ebed973ef4aab",
         "type": "tabs",
         "children": [
           {
-            "id": "742a31860e582e60",
+            "id": "419b8dea90453e1a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "GRADE-11/UNIT 5/G.1/Gas-Stoich.md"
+                "file": "impt-res/0.1-Data tables.pdf"
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRADE-11/UNIT 5/G.1/Gas-Stoich.md",
+                "file": "impt-res/0.1-Data tables.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRADE-11/UNIT 5/G.1/Gas-Stoich.md",
+                "file": "impt-res/0.1-Data tables.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRADE-11/UNIT 5/G.1/Gas-Stoich.md"
+                "file": "impt-res/0.1-Data tables.pdf"
               }
             }
           }
@@ -155,21 +155,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "320f004a101dc7a1",
+  "active": "419b8dea90453e1a",
   "lastOpenFiles": [
-    "imgs/Pasted Image 20230726232923_545.png",
-    "imgs/Pasted Image 20230726232608_534.png",
-    "imgs/Pasted Image 20230726232407_338.png",
-    "imgs/Pasted Image 20230726232022_305.png",
-    "imgs/Pasted Image 20230726231849_695.png",
-    "imgs/Pasted Image 20230726231630_794.png",
-    "imgs/Pasted Image 20230726225614_383.png",
-    "imgs/Pasted Image 20230726225301_358.png",
-    "imgs/Pasted Image 20230726224323_603.png",
-    "imgs/Pasted Image 20230726212515_325.png",
-    "imgs/Pasted Image 20230726210800_112.png",
-    "GRADE-11/UNIT 5/G.1/Combined-Gas-Law-Dalton-Law-PartialPressures.md",
+    "GRADE-11/UNIT 3/NOTE-EMP.png",
+    "GRADE-11/UNIT 3/NOTE-EMP.md",
+    "impt-res/0.1-Data tables.pdf",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L5-L6L7skipped/MORE-ISOTOPE.light.png",
+    "EXAM/Question-2.png",
+    "EXAM/Question-4.png",
+    "GRADE-11/UNIT 1/Question-4.png",
+    "EXAM/Question-4.md",
+    "Pasted Image 20230727130511_765.png",
+    "Pasted Image 20230727124856_334.png",
+    "EXAM/Question-3.md",
+    "EXAM/Question-3.png",
+    "Pasted Image 20230727123332_156.png",
+    "EXAM/Question-2.md",
+    "Pasted Image 20230727122916_655.png",
+    "EXAM/Question-1.md",
+    "Untitled.md",
+    "EXAM",
+    "GRADE-11/UNIT 5/avg_atomic_mass_review.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L4/MASS-SPECTROMETER.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L3/RadioIsotopes and Isotopes.md",
+    "GRADE-11/UNIT 1/NOTES/1.1 - (Radio)Isotopes-Decay/L3/ATOMICno.-mass-isotopes.md",
+    "GRADE-11/UNIT 1/covalent bonding intro.pdf",
+    "GRADE-11/UNIT 5/Gasses and Atmospheric Chemistry.md",
+    "GRADE-11/UNIT 5/G.1/Boyle-Law-Notes.md",
     "GRADE-11/UNIT 5/G.1/Gas-Stoich.md",
+    "GRADE-11/UNIT 5/G.1/Combined-Gas-Law-Dalton-Law-PartialPressures.md",
     "GRADE-11/UNIT 5/G.1/Gay-Lussac-Law-Notes.md",
     "GRADE-11/UNIT 5/G.1/Gay-Lussac-Law-Practice.md",
     "GRADE-11/UNIT 5/G.1/Charles-Law-Practice.md",
@@ -183,27 +197,12 @@
     "GRADE-11/UNIT 5/PDFS/L2. WS.Boyels law.doc.pdf",
     "GRADE-11/UNIT 5/PDFS/Unconfirmed 586037.crdownload",
     "GRADE-11/UNIT 5/PDFS/L3. WS.Charles worksheet.doc.pdf",
-    "GRADE-11/UNIT 5/PDFS/Unconfirmed 971180.crdownload",
     "GRADE-11/UNIT 5/G.1/Charles-Law-Notes.md",
-    "GRADE-11/UNIT 5/G.1/Boyle-Law-Notes.md",
     "GRADE-11/UNIT 5/G.1/Work.md",
-    "GRADE-11/UNIT 5/Gasses and Atmospheric Chemistry.md",
     "GRADE-11/UNIT 5/G.1/Boyle-Law-Practice.md",
-    "GRADE-11/UNIT 5/G.1",
     "GRADE-11/UNIT 4/TRITATION-LAB/TRITATION.md",
     "GRADE-11/UNIT 4/4.1/TEST.md",
-    "GRADE-11/UNIT 5",
-    "GRADE-11/UNIT 4/Drawing 2023-07-24 12.17.12.excalidraw.md",
     "GRADE-11/UNIT 4/4.1/Untitled.canvas",
-    "GRADE-11/UNIT 4/4.1/AllAbout-SolConc.md",
-    "GRADE-11/UNIT 4/4.1/Tritation-Problems.md",
-    "GRADE-11/UNIT 4/4.1/Molar-Concentration-Tutorial.md",
-    "GRADE-11/UNIT 4/4.1/CONCENTRATION-DILUTION-WORK.md",
-    "GRADE-11/UNIT 4/4.1/CHEM-REACTIONS.md",
-    "GRADE-11/UNIT 4/Learning Goals.md",
-    "GRADE-11/UNIT 4/4.1/Untitled.md",
-    "GRADE-11/UNIT 4/SOLUTIONS.md",
-    "GRADE-11/UNIT 3/Drawing 2023-07-20 12.35.09.excalidraw.md",
     "GRADE-11/UNIT 3/3.1/Untitled.canvas"
   ]
 }
